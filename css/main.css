@@ -69,6 +69,10 @@ section{
 
 }
 
+#linha-amarela{
+    background-color: #eece01;
+}
+
 #msg img{
     padding: .5rem;
 }
