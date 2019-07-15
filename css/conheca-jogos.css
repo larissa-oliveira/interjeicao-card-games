@@ -1,0 +1,29 @@
+#topo{
+    background-color: #00a596;
+}
+
+#lista-jogos{
+    background-color: #00a596;
+}
+
+.item{
+}
+
+#lista-jogos .descricao{
+    margin-top: 2.5rem;
+}
+
+#lista-jogos h1{
+    color: #044b5a;
+    font-weight: 700;
+}
+
+#lista-jogos p{
+    color: #fff;
+    text-align: justify;
+    font-size: 15px;
+}
+
+.titulo-direita{
+    margin-left: -5rem;
+}
